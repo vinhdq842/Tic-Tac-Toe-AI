@@ -107,8 +107,8 @@ class Game : ActionListener {
 
                 val nextStates: Vector<GameState> = Vector()
 
-                // Perform computer's turn, 60% is a "smart" move
-                if ((1..3).random() != 1) {
+                // Perform computer's turn, 75% is a "smart" move
+                if ((1..4).random() != 1) {
                     for (next in gameState.nextStates) if (gameState.benefit + 1 == next.benefit) {
                         nextStates.addElement(next)
                     }
