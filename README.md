@@ -30,6 +30,10 @@ The AI chooses moves with:
 * 80% strategy-driven decisions.
 * 20% random moves for variety.
 
+## Demo
+
+[demo.webm](https://github.com/user-attachments/assets/003789c4-2dc8-465e-90d0-cb9459329e2d)
+
 ## License
 
 This project is open-source and available under the MIT License.
