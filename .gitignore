@@ -1,0 +1,40 @@
+# IntelliJ IDEA / Kotlin specific
+.idea/
+*.iws
+.idea_modules/
+out/
+*.iml
+*.ipr
+
+# Compiled class files
+*.class
+
+# Kotlin compiler output
+*.kotlin_module
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle
+target/
+build/
+.gradle/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# User-specific configurations
+.shelf/
